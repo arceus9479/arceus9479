@@ -18,6 +18,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arceus9479&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arceus9479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+# 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arceus9479&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
+
+<img src="assets/light.gif"> 
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=tenaciousarceus)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
