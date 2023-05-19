@@ -17,6 +17,7 @@
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=arceus9479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arceus9479&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arceus9479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceus9479&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 
 # 📈 Productivity Stats:
