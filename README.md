@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Vivek Raj </h1>
 <div align="center">
-  <img src="[assets/bio.gif](https://github.com/arceus9479/arceus9479/blob/main/vr_coder.png)">
+  <img src="(https://github.com/arceus9479/arceus9479/blob/main/vr_coder.png)">
 </div>
 
 
