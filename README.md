@@ -28,7 +28,7 @@
 # 📈 Productivity Stats:
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arceus9479&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arceus9479&theme=monokai"  display=block width=101% height=auto  alt="1" ></td>
   </tr> 
 </table>
 
